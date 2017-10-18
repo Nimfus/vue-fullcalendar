@@ -11,7 +11,7 @@
 <script>
     import defaultsDeep from 'lodash.defaultsdeep'
     import $ from 'jquery'
-    import '../node_modules/jquery-ui';
+    import 'jquery-ui/core';
     import 'fullcalendar'
 
     export default {
