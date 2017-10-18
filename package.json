@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CroudSupport/vue-fullcalendar.git"
+    "url": "git+https://github.com/Nimfus/vue-fullcalendar.git"
   },
   "keywords": [
     "vue",
@@ -24,11 +24,12 @@
   "author": "Brock Reece",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CroudSupport/vue-fullcalendar/issues"
+    "url": "https://github.com/Nimfus/vue-fullcalendar/issues"
   },
-  "homepage": "https://github.com/CroudSupport/vue-fullcalendar#readme",
+  "homepage": "https://github.com/Nimfus/vue-fullcalendar#readme",
   "dependencies": {
-    "fullcalendar": "~3.4.0",
+    "fullcalendar": "^3.6.1",
+    "jquery-ui": "^1.12.1",
     "lodash.defaultsdeep": "^4.6.0"
   }
 }
