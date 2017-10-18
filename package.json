@@ -29,6 +29,7 @@
   "homepage": "https://github.com/Nimfus/vue-fullcalendar#readme",
   "dependencies": {
     "fullcalendar": "^3.6.1",
+    "jquery": "^3.2.1",
     "jquery-ui": "^1.12.1",
     "lodash.defaultsdeep": "^4.6.0"
   }
