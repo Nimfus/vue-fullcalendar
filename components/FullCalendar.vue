@@ -1,4 +1,8 @@
 <template>
+    <div id="external-events">
+        <div>test</div>
+        <div>test</div>
+    </div>
     <div ref="calendar" id="calendar"></div>
 </template>
 
@@ -125,6 +129,7 @@
         },
 
         mounted() {
+            $('#external-events > div').draggable()
             const cal = $(this.$el),
                 self = this
 
