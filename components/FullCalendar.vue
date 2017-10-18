@@ -1,9 +1,11 @@
 <template>
+    <div>
     <div id="external-events">
         <div>test</div>
         <div>test</div>
     </div>
     <div ref="calendar" id="calendar"></div>
+    </div>
 </template>
 
 <script>
